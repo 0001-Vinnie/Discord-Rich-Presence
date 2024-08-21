@@ -1,0 +1,29 @@
+How to Enable Discord Rich Presence
+Prerequisites
+A Discord Developer Portal account.
+An application (game or software) for Rich Presence integration.
+Step 1: Create Your Discord Application
+Log in to the Discord Developer Portal
+
+Go to the Discord Developer Portal.
+Log in or create a new account if you don’t have one.
+Create a New Application
+
+Click on the "New Application" button.
+Enter a name for your application and click "Create".
+Go to the Rich Presence Section
+
+Navigate to your application settings.
+Select the "Rich Presence" tab from the left menu.
+Step 2: Configure Rich Presence
+Add Art Assets
+
+Go to the "Art Assets" section.
+Upload the images you want to use. These are the visuals users will see in Discord (e.g., in-game screenshots).
+Set Player Status
+
+Navigate to the "Presence" section.
+Configure the player status and other metadata, such as what will be displayed as the “playing” status.
+
+
+
