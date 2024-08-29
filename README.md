@@ -1,5 +1,4 @@
-![DRPSNC_GitHub](https://github.com/user-attachments/assets/cbf54c15-8929-49b2-ad6a-20f23333b0e4)
-![Banner](https://github.com/0001-Vinnie/Discord-Rich-Presence/blob/Discord-Rich-Presence/DRPSNC_GitHub.jpg?raw=true)
+![Banner](https://github.com/user-attachments/assets/cbf54c15-8929-49b2-ad6a-20f23333b0e4)
 
 
 
