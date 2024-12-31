@@ -20,8 +20,6 @@
 
 ## ✠ CONTACT US 
 
-**Join Us :** https://discord.gg/S8TW3ZSpDR
-
 **For Job :** 1889.studio@gmail.com
 
 
